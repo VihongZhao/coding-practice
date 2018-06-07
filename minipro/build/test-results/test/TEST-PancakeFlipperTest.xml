@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PancakeFlipperTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-06-07T03:03:11" hostname="Vivian" time="0.017">
+  <properties/>
+  <testcase name="testPancakeFlipperUseFlipper" classname="PancakeFlipperTest" time="0.013"/>
+  <testcase name="testPancakeFlipperHasAShowStart" classname="PancakeFlipperTest" time="0.004"/>
+  <system-out><![CDATA[This test method should be run
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
